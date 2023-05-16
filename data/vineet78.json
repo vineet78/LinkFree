@@ -1,0 +1,21 @@
+{
+  "name": "Vineet Joglekar",
+  "type": "personal",
+  "bio": "Engineering Manager"
+  "links": [
+    {
+      "name": "Follow me on Twitter",
+      "url": "https://twitter.com/vjsinsights",
+      "icon": "FaTwitter"
+    },
+    {
+      "name": "Subscribe to my YouTube channel",
+      "url": "https://youtube.com/@vjsinsights",
+      "icon": "FaYoutube"
+    },
+    {
+      "name": "Book 1:1 Calls",
+      "url": "https://topmate.io/vjsinsights"
+    }
+  ]
+}
